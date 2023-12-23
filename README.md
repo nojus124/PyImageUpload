@@ -17,15 +17,15 @@ FastAPI,
 Uvicorn,
 Tailwind CSS
 ## Installation:
-
+### Getting git clone
 `git clone https://github.com/your-username/fastapi-image-uploader.git
 cd fastapi-image-uploader`
 
-## Install dependencies:
+### Install dependencies:
 
 `pip install -r requirements.txt`
 
-## Run the application:
+### Run the application:
 
 `python main.py`
 

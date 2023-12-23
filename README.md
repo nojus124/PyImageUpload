@@ -5,10 +5,10 @@ FastAPI Image Uploader is a simple web application built with FastAPI, a modern,
 
 The application allows users to upload images, which are then displayed on the main page along with their details. Images are saved with a unique identifier and timestamped filenames.
 
-Features
-Image Upload: Users can easily upload images through the web interface.
-Image Display: The main page displays a list of uploaded images with their unique IDs, names, and file paths.
-Persistent Storage: Uploaded image information is stored in a text file for persistent data across application restarts.
+### Features
+- Image Upload: Users can easily upload images through the web interface.
+- Image Display: The main page displays a list of uploaded images with their unique IDs, names, and file paths.
+- Persistent Storage: Uploaded image information is stored in a text file for persistent data across application restarts.
 
 ### Prerequisites:
 
